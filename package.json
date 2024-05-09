@@ -8,5 +8,9 @@
     "start": "node index"
   },
   "author": "Alpha",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieule245/NodeJS/issues"
+  },
+  "homepage": "https://github.com/hieule245/NodeJS#readme"
 }
